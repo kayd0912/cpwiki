@@ -24,10 +24,10 @@ db:
   type: postgres
 
   # PostgreSQL / MySQL / MariaDB / MS SQL Server only:
-  host: localhost
+  host: postgresql://postgres:qHLXdlYc40GB@ep-cool-bonus-a5k0q6bn.us-east-2.aws.neon.tech/wiki?sslmode=require
   port: 5432
   user: postgres
-  pass: kaymc1370
+  pass: qHLXdlYc40GB
   db: wiki
   ssl: false
 
