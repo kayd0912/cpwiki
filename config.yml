@@ -23,7 +23,7 @@ port: 3000
 db:
   type: postgres
 
-  # PostgreSQL / MySQL / MariaDB / MS SQL Server only:
+  # PostgreSQL / MySQL / MariaDB / MS SQL Server
   host: postgresql://postgres:qHLXdlYc40GB@ep-cool-bonus-a5k0q6bn.us-east-2.aws.neon.tech/wiki?sslmode=require
   port: 5432
   user: postgres
