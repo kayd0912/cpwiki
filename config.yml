@@ -29,7 +29,7 @@ db:
   user: postgres
   pass: wWPzY0Qct6yC
   db: wiki
-  ssl: false
+  ssl: require
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
   # -> Uncomment lines you need below and set `auto` to false
