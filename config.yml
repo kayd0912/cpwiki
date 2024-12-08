@@ -24,10 +24,10 @@ db:
   type: postgres
 
   # PostgreSQL / MySQL / MariaDB / MS SQL Server
-  host: postgresql://postgres:qHLXdlYc40GB@ep-cool-bonus-a5k0q6bn.us-east-2.aws.neon.tech/wiki?sslmode=require
+  host: ep-cool-bonus-a5k0q6bn.us-east-2.aws.neon.tech
   port: 5432
   user: postgres
-  pass: qHLXdlYc40GB
+  pass: wWPzY0Qct6yC
   db: wiki
   ssl: false
 
